@@ -1,9 +1,15 @@
 body
 {
-    color: #333;
-    text-align: left;
+    color: rgb(255, 0, 13);
+    text-align: center;
     font-family: "Arial";
     font-size: 16px;
+    margin: 0;
+    padding: 0;
+}
+#cabezera
+{
+  background: rgb(195, 241, 205);
 }
 #container
 {
